@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/echarts-react-demo/static/js/main.c6bea5f4.chunk.js",
+    "main.js.map": "/echarts-react-demo/static/js/main.c6bea5f4.chunk.js.map",
+    "runtime-main.js": "/echarts-react-demo/static/js/runtime-main.70db4828.js",
+    "runtime-main.js.map": "/echarts-react-demo/static/js/runtime-main.70db4828.js.map",
+    "static/js/2.116f0dae.chunk.js": "/echarts-react-demo/static/js/2.116f0dae.chunk.js",
+    "static/js/2.116f0dae.chunk.js.map": "/echarts-react-demo/static/js/2.116f0dae.chunk.js.map",
+    "index.html": "/echarts-react-demo/index.html",
+    "precache-manifest.3622ed1f41d97b7d5f5c70c209d49ca6.js": "/echarts-react-demo/precache-manifest.3622ed1f41d97b7d5f5c70c209d49ca6.js",
+    "service-worker.js": "/echarts-react-demo/service-worker.js",
+    "static/js/2.116f0dae.chunk.js.LICENSE": "/echarts-react-demo/static/js/2.116f0dae.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70db4828.js",
+    "static/js/2.116f0dae.chunk.js",
+    "static/js/main.c6bea5f4.chunk.js"
+  ]
+}
